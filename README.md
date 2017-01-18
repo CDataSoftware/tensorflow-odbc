@@ -70,9 +70,9 @@ This software is released under the GPL 3.0 license (see LICENSE file for the li
 
 ## Additional Information Sources
 
-[CData ODBC Reader for TensorFlow](http://www.cdata.com/labs/tensorflow/) project site on CData Labs.
-[CData Software Website](http://www.cdata.com/) containing free trials and support for CData Software's ODBC drivers.
-[Microsoft ODBC Documentation](https://msdn.microsoft.com/en-us/library/ms714177) containing the ODBC API Reference Guide.
+* [CData ODBC Reader for TensorFlow](http://www.cdata.com/labs/tensorflow/) project site on CData Labs.
+* [CData Software Website](http://www.cdata.com/) containing free trials and support for CData Software's ODBC drivers.
+* [Microsoft ODBC Documentation](https://msdn.microsoft.com/en-us/library/ms714177) containing the ODBC API Reference Guide.
 
 
 
